@@ -208,7 +208,7 @@ jano.on("message", message => {
     if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(888049985126563881)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -225,7 +225,7 @@ jano2.on("message", message => {
     if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(888049985126563881)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -241,7 +241,7 @@ jano3.on("message", message => {
     if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(888049985126563881)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -257,7 +257,7 @@ jano4.on("message", message => {
     if (!message.author.id) return;
     if (message.member.voiceChannel) {
       message.member.voiceChannel
-        .join()
+        .join(888049985126563881)
         .then(connection => {
           message.reply("**basha qashmar**");
         })
@@ -6140,10 +6140,10 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
+jano.login("OTM5Nzg2NDMyNzk1NTI5Mjg2.Yf96wQ.llp1c7omUamew0gx3qx1T65CRhs");
+jano2.login("OTM5Nzg0NzU5MzAxNzc5NDc2.Yf95JA.eenIClQT4XCL4WK_lpW-s-PcSBE");
+jano3.login("OTM5Nzg1NTY5NDk4NzE0MTQy.Yf955w.Pjki6_LryxdToZnTlHFxzAsnJ80");
+jano4.login("OTM5NzgzNTI4NTk2NTA4NzA0.Yf94EQ.agyrvuJjInJOANmwiE29A8AmKSY");
 jano5.login("");
 jano6.login("");
 jano7.login("");
